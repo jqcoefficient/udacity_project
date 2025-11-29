@@ -1,6 +1,6 @@
 **See Blog Post**  
 https://jqcoefficient.github.io/udacity_project/
-test
+
 **Libraries used**
   * pandas
   * numpy
