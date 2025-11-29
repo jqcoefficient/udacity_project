@@ -1,3 +1,5 @@
+![Title_Picture_Smileys_Reviews](images/smileys-reviews.jpg)
+
 # Introduction
 I am seeking to understand the Seattle market for Aribnb and what factors contribute to the overall rating of each listing. As a potential Airbnb owner, this information will be useful for me to determine where I should put my energy and resources. I pulled the data from https://www.kaggle.com/datasets/airbnb/seattle/data. I compared the overall rating for the listings to each of the rating categories: listing accuracy, cleanliness of the Airbnb, ease of the check-in process, communications, location, and the value of the Airbnb. Further, I will examine whether the response rate of the host would affect the communications rating. Lastly, I want to determine if I put money on a bigger house would generate a bigger listing price. 
 
