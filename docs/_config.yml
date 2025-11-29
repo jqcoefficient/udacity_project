@@ -1,1 +1,5 @@
-test
+title: "Seattle Airbnb Analysis"
+description: "A blog post on my findings of using the Seattle Airbnb data"
+theme: minima
+markdown: kramdown
+show_excerpts: true
